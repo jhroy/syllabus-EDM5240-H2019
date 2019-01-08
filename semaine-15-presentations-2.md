@@ -10,7 +10,7 @@ N'oubliez pas de mettre votre *making-of* en ligne dans Github, afin que je puis
 
 Bonnes vacances!
 
-*Vienne la fin de session<br>Sonne l'heure<br>Les jours s'en vont<br>Je demeure<br>- __Apollinaire__*
+*1: Vienne la fin de session<br>2: Sonne l'heure<br>3: Les jours s'en vont<br>4: Je demeure<br>- __Apollinaire__ (sauf pour la ligne 1)*
 
 -----
 
