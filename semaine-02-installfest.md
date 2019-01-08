@@ -34,7 +34,7 @@ Si vous ne l'avez pas déjà, téléchargez Sublime Text ([version 3](https://ww
 
 Si vous avez un portable Mac ou Windows, je vais vous demander d'installer la version d'Anaconda pour Python 3 et de me montrer qu'il fonctionne sur votre ordinateur avant la fin du cours.
 
-### Et si j'ai un Chromebook, un iPad, voire par d'ordi?
+### Et si j'ai un Chromebook, un iPad, voire pas d'ordi?
 
 [![](/assets/codeanywhere.png)](https://www.codeanywhere.com/)
 
