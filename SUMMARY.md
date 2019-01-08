@@ -5,7 +5,7 @@
     * [Enseignant](enseignant.md)
 * [Contenu](calendrier.md)
     * [Semaine 01 - Syllabus](semaine-01-syllabus.md)
-    * [Semaine 02 - Histoire](semaine-02-histoire.md)
+    * [Semaine 02 - Installfest et +](semaine-02-installfest.md)
     * [Semaine 03 - UNIX](semaine-03-unix.md)
     * [Semaine 04 - Python 1](semaine-04-python-1.md)
     * [Semaine 05 - Python 2](semaine-05-python-2.md)
