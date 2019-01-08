@@ -40,7 +40,7 @@ La présentation préliminaire de votre projet final que vous ferez au cours du 
 ## Rendez-vous durant la semaine de tutorat
 
 Je veux vous rencontrer le plus tôt possible dans la préparation de votre projet final afin de bien vérifier si votre démarche fait du sens et, bien sûr, afin de vous aider au mieux de mes capacités. Une rencontre est obligatoire (pouvant durer jusqu'à une heure) et vaut, elle aussi, [quelques points](#ventilation-des-travaux).<br>
-Huit jours sont réservés à cette fin entre les 2 et 13 avril 2018. Vous pouvez réserver votre période dès maintenant à partir de [ce système en ligne](https://taemio-free.10to8.com).<br>
+Huit jours sont réservés à cette fin entre le 28 mars et 12 avril 2019. Vous pouvez réserver votre période dès maintenant à partir de [ce système en ligne](http://bit.ly/edm5240rv).<br>
 Je suis bien entendu disponible pour toute autre rencontre que vous jugerez nécessaire.
 
 ## Projet final
