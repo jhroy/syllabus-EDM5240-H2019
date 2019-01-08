@@ -26,4 +26,3 @@
     * [Politiques \#16 et \#42](politiques-16-et-42.md)
     * [Règlement \#18](reglement-18.md)
     * [Politique \#23](politique-23.md)
-
