@@ -110,8 +110,8 @@ Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir 
 
 ### Travail final et *making-of*
 
-Effort.<br>
-Intérêt public.<br>
-Originalité.<br>
+- Effort.
+- Intérêt public.
+- Originalité.
 
 Ici encore, il est possible que vous n'y arriviez pas. Ne vous sentez pas *poche*. Plusieurs étudiant.e.s des sessions précécentes n'ont pas été en mesure de compléter un projet final. Soyez néanmoins certains que vos efforts auront une valeur à mes yeux. Un *making-of* détaillé et bien documenté aussi!
