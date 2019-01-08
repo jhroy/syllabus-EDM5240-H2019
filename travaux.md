@@ -56,7 +56,7 @@ Votre reportage devra également&nbsp;:
 - comprendre au moins une entrevue avec un expert, un témoin, ou tout autre intervenant en mesure de valider ou d'incarner ce que racontent les données dans votre reportage.
 - sinon être réalisé en collaboration avec un.e étudiant.e de Polytechnique qui vous aidera dans la visualisation de vos données.
 
-L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit&nbsp;: «&nbsp;Hé! Ce serait cool si on pouvait faire telle chose&nbsp;» Eh bien, allez-y! Faites-la! *Ou kapab*!
+L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit&nbsp;: «&nbsp;Hé! Ce serait cool si on pouvait faire telle chose!&nbsp;» Eh bien, allez-y! Faites-la! *Ou kapab*!
 
 ## *Making-of*
 
