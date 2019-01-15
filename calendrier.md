@@ -9,7 +9,7 @@ En voici le résumé&nbsp;:
 | # | Date | Contenu | Travail à faire ou à remettre (s'il y a lieu) |
 |---|---|---|---|
 | [01](/semaine-01-syllabus.md)| 9 janv. | Syllabus | |
-| [02](/semaine-02-installfest.md)| 16 janv. | Emmenez votre ordinateur pour y installer le nécessaire | |
+| [02](/semaine-02-installfest.md)| 16 janv. | Emmenez votre ordinateur<br>pour y installer le nécessaire | |
 | [03](/semaine-03-unix.md)| 23 janv. | Intro à UNIX | |
 | [04](/semaine-04-python-1.md)| 30 janv. | Python 1 | Abonnement à Github |
 | [05](/semaine-05-python-2.md)| 6 févr. | Python 2 | Devoir #1 |
