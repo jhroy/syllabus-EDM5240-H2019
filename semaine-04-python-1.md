@@ -20,7 +20,7 @@ Vous aurez ensuite à faire un mini devoir dont vous trouverez les détails dans
 
 ![](/assets/python.png "Le langage python")
 
-Nous allons ensuite nous tremper les orteils dans le langage de programmation [Python](https://fr.wikipedia.org/wiki/Python_(langage).
+Nous allons ensuite nous tremper les orteils dans le langage de programmation à code source libre [Python](https://fr.wikipedia.org/wiki/Python_(langage)).
 
 On va commencer par les concepts de base&nbsp;:
 
