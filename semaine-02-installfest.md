@@ -4,7 +4,7 @@
 
 ---
 
-Dans ce deuxième cours, je vous montrerai d'abord quelques exemples de journalisme de données de partout dans le monde ayant demandé quelques-unes des compétences qu'on abordera ce cours. Je vous demanderai de m'en montrer, également!
+Dans ce deuxième cours, je vous montrerai d'abord [quelques exemples](https://medium.com/@jeanhuguesroy/les-visages-multiples-du-journalisme-de-donn%C3%A9es-adc4d45fe1d9) de journalisme de données de partout dans le monde ayant demandé quelques-unes des compétences qu'on abordera ce cours. Je vous demanderai de m'en montrer, également!
 
 Nous aurons également la visite du professeur Thomas Hurtut qui vous expliquera comment informaticien.ne.s et journalistes collaborent et comment vous pourrez faire votre travail final en collaboration avec les étudiant.e.s de son cours, [Visualisation de données (INF8808)](https://www.polymtl.ca/etudes/cours/visualisation-de-donnees).
 
