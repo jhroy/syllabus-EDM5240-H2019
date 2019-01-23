@@ -4,6 +4,7 @@
 
 Les différents tutoriels que je vous ai présentés au cours de la session sont réunis sur cette page&nbsp;:
 
+* [Exemples de journalisme de données présentées en classe](https://medium.com/@jeanhuguesroy/les-visages-multiples-du-journalisme-de-donn%C3%A9es-adc4d45fe1d9)
 * [Création d'un répertoire dans Github](https://medium.com/@jeanhuguesroy/comment-partager-votre-script-sur-github-9f7116d86034)
 * [Unix (ou *bash*) pour journalistes](https://medium.com/@jeanhuguesroy/unix-pour-journalistes-1352aad18f2a)
 * [BeautifulSoup](http://bit.ly/jhroybs4)
