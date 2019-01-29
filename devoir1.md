@@ -21,4 +21,4 @@ Vous devez écrire un script qui importe la variable *articles* (pas de copier-c
 - affiche dans le terminal, pour chaque article, une phrase complète comprenant ces quatre variables;
 - affiche, à la fin (toujours dans le terminal), le nombre d’articles publiés par chacun des six médias de l’échantillon (dans une phrase complète également).
 
-Évidemment, il faut mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1---eureka).
+Évidemment, il faut mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1---eurêka).
