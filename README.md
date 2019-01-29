@@ -16,7 +16,7 @@ Le contenu de ce cours, en fait, colle davantage à ce qu'on appelle, dans le mo
 
 -----
 
-```Le cours a lieu tous les mercredis entre 14h et 17h au local **J-1330**, du 9 janvier au 17 avril 2019.```
+```Le cours a lieu tous les mercredis entre 14h et 17h au local **J-4315**, du 9 janvier au 17 avril 2019.```
 <br>```Avoir son propre ordinateur est essentiel pour suivre ce cours.```
 
 ![](/assets/LogoUQAM.png)
