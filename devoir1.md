@@ -1,4 +1,4 @@
-# Devoir 1
+# Devoir 1 - Eurêka!
 
 ![](assets/eureka.png)
 
