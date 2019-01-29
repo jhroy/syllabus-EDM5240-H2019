@@ -1,4 +1,4 @@
-# Devoir 1
+# Devoir 1 - Eurêka!
 
 ![](assets/eureka.png)
 
@@ -19,6 +19,6 @@ Vous devez écrire un script qui importe la variable *articles* (pas de copier-c
 - place le nombre de mots dans une variable que vous appelerez *mots*;
 - place la page où l’article se trouve dans une variable que vous appelerez (on reste originaux) *page*;
 - affiche dans le terminal, pour chaque article, une phrase complète comprenant ces quatre variables;
-- affiche, à la fin, le nombre d’articles publiés par chacun des six médias de l’échantillon (dans une phrase complète également).
+- affiche, à la fin (toujours dans le terminal), le nombre d’articles publiés par chacun des six médias de l’échantillon (dans une phrase complète également).
 
 Évidemment, il faut mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1---eureka).
