@@ -13,7 +13,7 @@ Le samedi 26 janvier 2019, 610 articles ont été publiés dans les médias suiv
 
 Certaines informations relatives à ces articles ont été glanées du système Eurêka et placées dans une liste. Cette liste, c’est la variable *articles* qui se trouve dans le fichier [**eureka.py**](eureka.py) que vous pouvez télécharger à partir du présent site, sinon d’[ici](https://www.dropbox.com/s/p80r3pw6v5rmcfz/eureka.py?dl=0).
 
-Vous devez écrire un script qui importe la variable *articles* (pas de copier-coller), puis qui, pour chaque article:
+Vous devez écrire un script qui commence par la variable *articles* puis qui, pour chaque article:
 - place le nom du média dans une variable que vous appelerez *media*; 
 - place le nom de chaque section dans une variable que vous appelerez —vous l’aurez deviné— *section*;
 - place le nombre de mots dans une variable que vous appelerez *mots*;
