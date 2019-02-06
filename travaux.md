@@ -17,7 +17,7 @@ Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus
 
 Postez-le avant 23h59, le 3 février 2019.
 
-## Devoir 2 - [À venir](https://github.com/jhroy/syllabus-EDM5240-H2019/blob/master/devoir2.md)
+## Devoir 2 - [BAnQ](https://github.com/jhroy/syllabus-EDM5240-H2019/blob/master/devoir2.md)
 
 Même principe que la semaine précédente&nbsp;: déposez votre script (**devoir2.py**) dans un répertoire public (*«&nbsp;repo&nbsp;»*) de votre compte Github auquel vous donnerez le nom original de **EDM5240-devoir2**.
 
