@@ -22,3 +22,7 @@ Vous devez écrire un script qui commence par la variable *articles* puis qui, p
 - affiche, à la fin (toujours dans le terminal), le nombre d’articles publiés par chacun des six médias de l’échantillon (dans une phrase complète également).
 
 Évidemment, il faut mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github, répertoire que vous appellerez **EDM5240-devoir1** avant l'[heure de tombée](travaux.md#devoir-1---eurêka).
+
+<hr>
+
+Consultez le [corrigé du devoir1](devoir1.py).
