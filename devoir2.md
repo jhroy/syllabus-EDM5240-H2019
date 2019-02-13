@@ -26,3 +26,7 @@ Lorsque le **type** est « audio », votre script doit placer les éléments s
 Enfin, votre script doit enregistrer toutes ces informations dans un fichier CSV que vous appellerez **banq.csv**.
 
 Comme la semaine dernière, vous devez enfin mettre votre script, une fois que vous l'aurez complété, dans un répertoire sur votre compte Github. Vous donnerez cette fois-ci à votre répertoire le nom de **EDM5240-devoir2** et ferez tout cela avant l'[heure de tombée](travaux.md#devoir-2---BAnQ).
+
+<hr>
+
+Consultez le [corrigé du devoir2](devoir2.py) et [le fichier CSV qu’il produit](banq.csv)
