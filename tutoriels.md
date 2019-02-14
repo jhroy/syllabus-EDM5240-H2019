@@ -11,6 +11,9 @@ Les différents tutoriels que je vous ai présentés au cours de la session sont
 * Les scripts qu’on a élaborés ensemble au cours 2 sur python&nbsp;:
 	* [**lirecsv.py** (pour lire des fichiers CSV)](https://github.com/jhroy/syllabus-EDM5240-H2019/blob/master/lirecsv.py)
 	* [**lireapi.py** (pour lire des API et enregistrer des données dans un fichier CSV)](https://github.com/jhroy/syllabus-EDM5240-H2019/blob/master/lireapi.py)
+* Deux tutoriels mitonnés avec :heart: pendant la tempête de neige du 13 février:
+	* [Comment faire du moissonnage grâce à Google Sheets](googlesheets.md)
+	* [Comment utiliser l’API de Twitter](api-twitter.md)
 * [BeautifulSoup](http://bit.ly/jhroybs4)
 * [Pandas](https://github.com/jhroy/tuto-pandas/blob/master/tutoriel.ipynb)
 * [Les principales commandes SQL](https://gist.github.com/jhroy/21acbdf067adc6721b20fbb8aabe020a#file-mysql-requetes-sql)
