@@ -18,7 +18,7 @@ nAudio = 0
 # Pour ramasser les numéros d'items entre 1000 et 2000,
 # on fait une boucle dans un «range» de 1000 à 2001 (le dernier item est toujours exclu dans un «range»).
 # À chaque itération, la valeur de la variable «essai» changera, passant de 1000 à 2000, avec toutes les valeurs possibles entre les deux.
-for essai in range(1386,2001):
+for essai in range(1000,2001):
 
 	# On crée une liste pour enregistrer les informations qu'on va recueillir dans l'API de BAnQ.
 	infos = []
