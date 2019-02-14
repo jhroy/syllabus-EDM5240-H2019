@@ -114,11 +114,13 @@ onCherche = input("Quel mot ou expression? ")
 
 Puis voici comment rédiger une recheche au moyen de l’API de Twitter.<br>
 Ici, on cherche le contenu de notre variable *onCherche* et Twitter va nous retourner du .json comprenant les 500 (c’est le maximum) tweets les plus récents avec cette expression publiés au cours des 30 derniers jours.<br>
-Vous pouvez placer tout cela dans une variable qu’on peut appeler *tweets*.
+Vous pouvez placer tout cela dans une variable qu’on peut appeler *tweets* au moyen de la méthode *.GetSearch()*.
 
 ```python
 tweets = t.GetSearch(term=onCherche,count=500,result_type="recent",return_json=True)
 ```
+
+Il en existe d'autres, comme *.GetUserTimeline()* pour aller chercher les 3&nbsp;200 derniers tweets d'un utilisateur donné, *.GetStatus()* pour retrouver un tweet en particulier ou *.GetFriends()* pour trouver les amis d'un utilisateur. Il y en a plusieurs autres dont la syntaxe est décrite dans [la documentation de twitter-python](https://python-twitter.readthedocs.io/en/latest/twitter.html).
 
 Allez voir ce que contient la variable *tweets*.
 
