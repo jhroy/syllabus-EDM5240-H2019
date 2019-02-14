@@ -124,7 +124,9 @@ Allez voir ce que contient la variable *tweets*.
 
 C’est du JSON que vous pouvez embellir.
 
-print(json.dumps(tweets, indent=4, sort_keys=True))
+```python
+print(json.dumps(tweets, indent=2, sort_keys=True))
+```
 
 Chaque tweet est un **statut**. C’est ainsi que la clé qui contient les jusqu’à 500 tweets qu’on a demandés s’appelle *statuses*. On peut y faire une boucle pour aller chercher des informations pertinentes sur chacun des tweets.
 
