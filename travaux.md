@@ -28,10 +28,10 @@ Le travail est bien décrit dans [la page de la semaine 7](semaine-07-python-4.m
 
 **Tombée**&nbsp;: pendant la semaine de relâche, donc avant 23h59 le 3 mars 2019.
 
-## Devoir 3 - [À venir](https://github.com/jhroy/syllabus-EDM5240-H2019/blob/master/devoir3.md)
-Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* public que vous baptiserez **EDM5240-devoir3**.
+## Devoir 3 - [Pandas Rodriguez](https://github.com/jhroy/syllabus-EDM5240-H2019/blob/master/devoir3.md)
+Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre document dans votre compte Github. Il s’agira cette fois d’un carnet Jupyter que vous appelerez **devoir3.ipynb**. En outre, placez-le dans un *«&nbsp;repo&nbsp;»* public que vous baptiserez **EDM5240-devoir3**.
 
-Postez-le avant 23h59, le 10 mars 2019.
+Postez-le avant 23h59, le 17 mars 2019.
 
 ## Présentation initiale
 
