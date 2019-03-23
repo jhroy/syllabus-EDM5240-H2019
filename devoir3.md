@@ -36,3 +36,5 @@ N’hésitez pas à consulter le [formidable tutoriel](https://github.com/jhroy/
 Bonne chance et au plaisir de vous serrer la main dans un souper-spaghetti dans mon comté.
 
 <hr>
+
+Je vous invite maintenant à consulter le [corrigé de mon devoir](devoir3-corrige.ipynb)
