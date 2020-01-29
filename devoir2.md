@@ -10,7 +10,7 @@ Pour y faire des requêtes, il suffit d’utiliser l’URL suivant&nbsp;:
 
 puis de le faire suivre d’un numéro de code quelconque.
 
-Par exemple, avec le numéro de code **995**, on obtient l’URL [http://collections.banq.qc.ca/api/service-notice?handle=52327/995](http://collections.banq.qc.ca/api/service-notice?handle=52327/995) qui vous donne des informations sur *La java des Laurentides*, chanson de 1938 qui flaire bon le terroir.
+Par exemple, avec le numéro de code **995**, on obtient l’URL [http://collections.banq.qc.ca/api/service-notice?handle=52327/995](http://collections.banq.qc.ca/api/service-notice?handle=52327/995) qui vous donne des informations sur *La java des Laurentides*, chanson de 1938 qui fleure bon le terroir.
 
 Vous êtes curieux d’avoir une vue d’ensemble de tous les fichiers musicaux que contient BAnQ. Votre devoir consiste à satisfaire votre curiosité par le biais d'un script.
 
